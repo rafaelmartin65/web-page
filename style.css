@@ -1,0 +1,10 @@
+body{ 
+    font-size: 15px;
+    color: blueviolet;
+    background-color: cadetblue;
+}
+
+h2  {
+    font-style: italic;
+    font: 1em sans-serif;
+}
